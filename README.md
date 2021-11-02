@@ -4,6 +4,9 @@
 ## About me
 I'm a graduate student in HITsz, Learn the knowledge related to big data development。
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+
+
 <!--
 **FitzLong/FitzLong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 =======
